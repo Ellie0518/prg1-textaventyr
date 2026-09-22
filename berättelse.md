@@ -1,0 +1,1 @@
+Berättelsen kommer att handla om en person som har hamnat i ett rum, med olika färgade dörrar. En röst kommer att höras i rummet som kommer ställa frågor. Då får man svara ja eller nej, beroende på vad man svarar så kommer spelet fortsätta att gå. Ifall man svarar fel kommer spelet att avslutas. 

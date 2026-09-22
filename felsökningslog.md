@@ -1,7 +1,7 @@
 ## [Datum] – [Kort titel på problemet]
 
 **Vad gick fel:**
-[Beskriv problemet konkret]
+när man skriver exit() så satte jag led längst ner efter en if/else händelse. Men programmet slutade även om jag svarat ja till att fortsätta. 
 
 **Varför:**
 [Din analys av grundorsaken]
