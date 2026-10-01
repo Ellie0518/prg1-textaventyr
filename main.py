@@ -21,7 +21,7 @@ else:
     print(f"{namn} går igenom den röda dörren och faller ner för ett stup och dör.")
     print ("Game Over")
     exit()
-print(f"I det nya rummet ser {namn} en lapp på golvet. Den säger: 'Två frågor kvar sedan är skatten din!")
+print(f"{namn} går in i rummet och ser en lapp på golvet. Lappen säger: 'För att ta dig vidare måste du svara på två frågor korrekt.'")
 frågor_val = input(f"Vill {namn} fortsätta? (ja/nej)")
 if frågor_val.lower() == "ja":
     print("Bra! Första frågan är...")
@@ -45,3 +45,4 @@ else:
     print(f"Fel svar! Nu kommer {namn} avrättas.")
     print("Game Over")
     exit () 
+    
