@@ -20,12 +20,13 @@ Uppgiften är av programmeringskaraktär, men du behöver också göra planering
 
 ## Vad berättelsen handlar om
 
-En eller två meningar.
+Det handlar om att man styr en karaktär, där de får välja olika saker. Ifall man valt rätt hela vägen så får man 1 miljon kronor. 
 
 ## Vägvalen
 
-Vilka val spelaren gör, och vart de leder.
+De val karaktären får göra är att välja olika dörrar. Den får svara på matematiska frågor.
 
 ## Det som var svårast
-
+jag tyckte ingenting var jättesvårt men jag skulle vela lära mig mer om elif och hur man kan fixa loopar, så att en fråga ställs igen. 
 ## Om jag hade mer tid
+Jag har tid kvar men kan kommer inte på något mer att göra i min berättelse. 
