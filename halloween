@@ -1,0 +1,10 @@
+date = input()
+
+if date == "oct 31":
+    print("Yup")
+
+elif date == "dec 25":
+    print("yup")
+
+else:
+    print("Nope")
